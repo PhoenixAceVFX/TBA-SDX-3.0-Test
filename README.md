@@ -1,20 +1,18 @@
-# THIS IS A DEVELOPMENT BUILD, USE AT YOUR OWN RISK  
+<div align='center'>
+<img src="https://raw.githubusercontent.com/TheBlackArms/The-Black-Arms-SDX/master/screenshots/tba.png" />  
 
-# The Black Arms SDX  
+[![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Black%20Arms)](https://discord.gg/pcfjyQ6z6z)  [![SDX Support Discord](https://img.shields.io/discord/745011216526737438?style=for-the-badge&logo=appveyor?color=%23ff0000&label=Support%20Server)](https://discord.gg/A9dca3N)  [![Ministry Discord](https://img.shields.io/discord/657533624052219905?style=for-the-badge&logo=appveyor?color=%23000000&label=Ministry)](https://discord.gg/ministry)  [![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)  
 
-# Upcoming Update  
-Due to a recent incident I am forced to start hardcoding everything.  
-This is for the security and safety of my users as I do not want malware versions of my SDX being found.  
-Beta testing for the hardcoding will start soon as this will allow me to obfuscate the SDX to secure it.  
-Im sorry to everyone who was making custom versions from this but I have no other choice.  
-After testing for the obfuscation is completed old builds will be completely wiped from the repo.  
-If issues do not continue any further then I will postpone this until a later date as I am not ready for it.  
+# !!DANGER!!  
+VRChat has recently entered a BAN SPREE and we are unsure of the reason  
+If I must I WILL private everything relating to The Black Arms SDX to prevent any issues.  
+For now USE AT YOUR OWN RISK!
 
-[![](https://img.shields.io/discord/750823059807797260?color=%23000000&label=Dedsec)](https://discord.gg/hEV4yKZ) [![Discord](https://img.shields.io/discord/809477903577251900?color=%23ff0000&label=The%20Black%20Arms)](https://discord.gg/pcfjyQ6z6z) [![](https://img.shields.io/badge/The%20Black%20Arms-Guilded-%23F5C400)](https://www.guilded.gg/i/Kk57LVQE) [![](https://img.shields.io/discord/745011216526737438?color=%23ff0000&label=Support%20Server)](https://discord.gg/A9dca3N) [![](https://img.shields.io/discord/657533624052219905?color=%23000000&label=Ministry)](https://discord.gg/ministry) [![](https://img.shields.io/badge/Patreon-Donate-pink)](https://www.patreon.com/PhoenixAceVFX)
-
-## [FAQ](./FAQ.md) | [Changelog](./CHANGELOG.md) | [Avatar 3.0 Changelog](./AVATAR-3.0-CHANGELOG.md) | [To-Do List](./TODO.md) |
-
-> ### [Click here to download the latest SDX](https://github.com/TheBlackArms/TheBlackArmsSDX/releases/latest)
+[![faq](./screenshots/faq.png)](./FAQ.md)
+[![changelog](./screenshots/changelog.png)](./CHANGELOG.md)
+[![todo list](./screenshots/todo.png)](./TODO.md)
+[![av3 changelog](./screenshots/av3changelog.png)](./AVATAR-3.0-CHANGELOG.md)
+[![download](./screenshots/tbadownload.png)](https://github.com/TheBlackArms/TheBlackArmsSDX/releases/latest)
 
 ## Screenshots
 <table>
@@ -73,3 +71,4 @@ If issues do not continue any further then I will postpone this until a later da
 **This repository intentionally omits a supplementary license.** Exclusive copyright is held by the contributors.
 The source code hosted in this repository may not be copied, distributed, or modified without risk of take-downs, shake-downs, or litigation.
 For more information regarding the conditions of use where repositories omit a supplemental license; see [GitHub Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service#d-user-generated-content), or [the summary of 'No License' conditions](https://choosealicense.com/no-permission/).
+</div>
